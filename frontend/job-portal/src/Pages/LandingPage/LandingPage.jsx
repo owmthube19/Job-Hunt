@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 import Features from "./components/Features";
 const LandingPage = () => {
     return (
-        <div className= 'min-h-screen mb-96'> 
+        <div className= 'min-h-screen mb- [100vh]'> 
             <Header />
             <Hero />
             <Features />
